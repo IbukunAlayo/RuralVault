@@ -1,0 +1,2 @@
+# RuralVault
+This is the readme file for RuralVault: Overall, the goal of RuralVault is to empower small businesses in low-income communities by providing them with the tools they need to succeed. By providing access to affordable and reliable financial services, resources, and support, RuralVault aims to promote economic development and growth in these communities. RuralVault will be designed to be user-friendly and easy to navigate, with a focus on transparency and trust.
